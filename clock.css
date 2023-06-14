@@ -1,0 +1,8 @@
+.setter{
+    display: flex;
+    flex-direction: column;
+}
+#session_break{
+    font-weight: 700;
+    font-size: 40px;
+}
